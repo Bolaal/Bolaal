@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI%2FML+Engineer+%F0%9F%A4%96;Computer+Vision+%7C+NLP+Specialist+%F0%9F%93%8A;Deep+Learning+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI%2FML+Engineer+%F0%9F%A4%96;NLP+Specialist+%F0%9F%93%8A;Deep+Learning+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 </div>
 
@@ -152,5 +152,6 @@
 ### 💭 *"Transforming ideas into intelligent solutions through the power of AI"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bolaal&color=blueviolet&style=for-the-badge)
+
 
 </div>
