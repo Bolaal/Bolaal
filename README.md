@@ -11,7 +11,7 @@
 ## 🎯 About Me
 
 🎓 **Computer Science Student** specializing in **Artificial Intelligence** at New Mansoura University  
-🔬 **Machine Learning Intern** @ Digital Egypt Pioneers Initiative (DEPI)  
+🔬 **Ex-Machine Learning Intern** @ Digital Egypt Pioneers Initiative (DEPI)  
 🚀 Passionate about building production-ready **Deep Learning** models and solving real-world problems  
 🌍 Based in **Dakahliya, Egypt**
 
@@ -155,3 +155,4 @@
 
 
 </div>
+
